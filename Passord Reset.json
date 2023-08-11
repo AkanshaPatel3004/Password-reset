@@ -1,0 +1,53 @@
+[
+    {
+      "Phone number": "123-456-7890",
+      "Date of birth": "08-11-1990",
+      "Password": "MySecurePassword123"
+    },
+    {
+      "Phone number": "555-555-1234",
+      "Date of birth": "05-25-1985",
+      "Password": "SecretPass789"
+    },
+    {
+      "Phone number": "987-654-3210",
+      "Date of birth": "12-01-1998",
+      "Password": "StrongPass456"
+    },
+    {
+      "Phone number": "111-222-3333",
+      "Date of birth": "03-15-1977",
+      "Password": "MyPassWord987"
+    },
+    {
+      "Phone number": "777-888-9999",
+      "Date of birth": "10-07-2000",
+      "Password": "Secure123456"
+    },
+    {
+      "Phone number": "444-555-6666",
+      "Date of birth": "07-22-1995",
+      "Password": "Pass123Word"
+    },
+    {
+      "Phone number": "888-999-0000",
+      "Date of birth": "11-30-1982",
+      "Password": "1234Secure5678"
+    },
+    {
+      "Phone number": "222-333-4444",
+      "Date of birth": "02-14-2001",
+      "Password": "MySecretPass"
+    },
+    {
+      "Phone number": "666-777-8888",
+      "Date of birth": "09-18-1993",
+      "Password": "SecurePass123"
+    },
+    {
+      "Phone number": "555-444-3333",
+      "Date of birth": "04-09-1988",
+      "Password": "Password1234"
+    }
+  ]
+  
